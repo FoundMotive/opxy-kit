@@ -1,0 +1,17 @@
+Martin HD28 Vintage acoustic guitar samples (MartinGM2_*.wav), recorded and
+released by Jeff Learman as part of the Discord SFZ GM Bank, instrument 026
+"Acoustic Guitar (steel)". Source: https://github.com/kinwie/Discord-SFZ-GM-Bank
+pinned revision 05d5ed8befa042fd9d99a6d159dfc3673d3f8edc.
+The instrument's .sfz header states: "License: Creative Commons CC0".
+
+CC0 1.0 Universal (Public Domain Dedication):
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law. You can copy, modify, distribute and perform the work, even for
+commercial purposes, all without asking permission.
+
+Used in Open-XY kit 016 "Guitar" (machines/guitar), trimmed, retuned per note,
+resampled and re-encoded by tools/kit016_guitar.py. Credit (not required):
+Jeff Learman, Martin HD28 samples, Discord SFZ GM Bank.

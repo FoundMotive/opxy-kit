@@ -1,0 +1,11 @@
+Vocal Tune demo input
+
+"Twinkle Twinkle Little Star - sung with full lyrics.ogg"
+Singer and uploader: Dcoetzee (Wikimedia Commons)
+Source: https://commons.wikimedia.org/wiki/File:Twinkle_Twinkle_Little_Star_-_sung_with_full_lyrics.ogg
+License: CC0 1.0 Universal (Public Domain Dedication)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The demo uses the first line only ("Twinkle, twinkle, little star"), trimmed,
+mixed to mono at 44.1 kHz and lowered about 40 cents, then processed by the
+kit 018 Vocal Tune engine. No attribution is required; it is given as a courtesy.
